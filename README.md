@@ -1,2 +1,2 @@
 # Python-learning
-Homework from pPython learning
+Homework from Python learning
